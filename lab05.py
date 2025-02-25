@@ -32,7 +32,7 @@ def binary_to_decimal(b):
        #)
 
 #print(is_valid_ip("192.168.1.1"))
-#rint(is_valid_ip("192.168.256.1"))
+#print(is_valid_ip("192.168.256.1"))
 #print(is_valid_ip("192.168.1"))
 #print(is_valid_ip("192.168.01.1"))
 
@@ -40,6 +40,6 @@ def binary_to_decimal(b):
 #print(decimal_to_binary(255))
 #print(decimal_to_binary(1))
 
-#print(binary_to_decimal("1010"))      # 10
-#print(binary_to_decimal("11111111"))  # 255
-#print(binary_to_decimal("1"))         # 1
+#print(binary_to_decimal("1010"))
+#print(binary_to_decimal("11111111"))
+#print(binary_to_decimal("1"))
